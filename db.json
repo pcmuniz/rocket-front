@@ -1,0 +1,95 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Escrivaninha Trevalla Kuadra Me150-E10 Industrial 150cm Preto Onix",
+            "price": 279.90,
+            "imageUrl": "https://m.media-amazon.com/images/I/71b3InIEJyL._AC_SL1200_.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Mesa com Regulagem de Altura Elétrica Unit 135 cm - Preto c/ Freijó",
+            "price": 1999.00,
+            "imageUrl": "https://homedock.com.br/cdn/shop/files/Homedock-Mesa-Elevatoria-Unit-135-cm---Preto-c--Freijo-Dowell-1691418517193_600x.jpg?v=1711548433"
+        },
+        {
+            "id": 3,
+            "title": "Cadeira ergométrica de escritório (preto)",
+            "price": 559.90,
+            "imageUrl": "https://m.media-amazon.com/images/I/41sOAAI6e9L._AC_SX679_.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Guarda-roupa 6 Portas 3 Gavetas Arthur Espresso Móveis Nature/Verde HP",
+            "price": 699.90,
+            "imageUrl": "https://product-hub-prd.madeiramadeira.com.br/886721/images/b057ee20-ae33-4f37-b89d-83bde1432c54reverdehp1708961956200zoom.jpg?width=700&canvas=1:1&bg-color=FFF"
+        },
+        {
+            "id": 5,
+            "title": "Garmin Ciclocomputador Edge 130 Plus",
+            "price": 642.99,
+            "imageUrl": "https://www.tradeinn.com/f/13761/137614559/garmin-ciclocomputador-edge-130-plus.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Garmin Epix Gen 2 Pro",
+            "price": 10999.00,
+            "imageUrl": "https://garmin.vtexassets.com/arquivos/ids/160199-800-auto?v=638388762880130000&width=800&height=auto&aspect=true"
+        },
+        {
+            "id": 7,
+            "title": "Monitor Cardíaco de Pulso com GPS Garmin Forerunner 55",
+            "price": 1320.00,
+            "imageUrl": "https://m.media-amazon.com/images/I/61llwZ-kysL.__AC_SX300_SY300_QL70_ML2_.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Bicicleta Cervélo P5 Six Dura Ace",
+            "price": 18500.00,
+            "imageUrl": "https://static.bikepointsc.com.br/public/bikepointsc/imagens/produtos/bicicleta-cervelo-p5-six-dura-ace-662fd667d12ec.png"
+        }
+        
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "comment": "Sobre o Produto Mesa Kuadra Office 150X60X75cm Amadeirado / Est.Preta Descrição do Produto: A Mesa Diretor KUME6150 tem montagem simples e versátil, podendo ser utilizada em diversas composições com outros móveis. A Linha Kuadra tem seu design com inspiração no estilo industrial, que remete muito a decoração usada nos Lofts das grandes metrópoles nos anos 60 e 70. Harmonizando o metal e os tons de madeira, foram projetados móveis versáteis e com estilo, que podem compor ambientes flexíveis cheios de personalidade, perfeitos para você decorar sua casa ou seu trabalho, tendo um resultado que caminha do estilo rústico ao moderno. Itens Inclusos: 1 Mesa Dimensões dos Produtos: Mesa Kuadra Office 150X60X75cm Amadeirado / Est.Preta: 150 x 60 x 75 cm Informações Logísticas (Comp. X Prof. X Alt.): Vol.01: 155 x 64,5 x 7 cm. Peso: 17,534 Kg Peso Total: 17,534 Kg Observações: Não acompanha acessórios decorativos. Imagens meramente ilustrativas.",
+            "productId": 1
+        },
+        {
+            "id": 2,
+            "comment": "A Mesa Unit é a solução perfeita para quem busca um produto que une tecnologia e ergonomia. Com um sistema de regulagem de altura elétrico, permite ajustes precisos para atender às necessidades individuais de cada usuário. O painel eletrônico e o sistema de memória de posições proporcionam uma experiência intuitiva e personalizada.",
+            "productId": 2
+        },
+        {
+            "id": 3,
+            "comment": "Cadeira de escritório adequada para sua coluna e ideal para o conforto de suas costas e lombar. A malha traseira é composta por 2 partes, quando você sentar pode ajustar da melhor maneira para te oferecer um suporte adequado da lombar.",
+            "productId": 3
+        },
+        {
+            "id": 4,
+            "comment": "Espessura do fundo (mm): 3. ALtura dos pés (cm): 5. Altura do espelho (cm): 100. Largura do espelho (cm): 20. Altura (cm): 200. Largura (cm): 160. Profundidade (cm): 43.5. Peso (kg): 75.",
+            "productId": 4
+        },
+        {
+            "id": 5,
+            "comment": "O Edge 130 Plus é um ciclocomputador Garmin que possui uma tela de 1,8 ”com resolução de 303 x 230 pixels que permite ver as próximas viagens que fará com sua bicicleta. Este modelo inclui conectividade com GPS, Glonass, Galileo e também inclui acelerômetro, altímetro barométrico, sensor de luz ambiente, conectividade via Bluetooth, ANT. Você também pode verificar as notificações inteligentes recebidas em seu smartphone.",
+            "productId": 5
+        },
+        {
+            "id": 6,
+            "comment": "O Garmin Epix Gen 2 Pro é um relógio inteligente de última geração, projetado para aventureiros e entusiastas de atividades ao ar livre. Com um visor de alta resolução e interface intuitiva, oferece uma experiência visual imersiva e fácil de usar. Equipado com tecnologia GPS avançada e mapas topográficos pré-carregados, mantém você orientado e seguro em qualquer ambiente. Além disso, seu conjunto abrangente de recursos de monitoramento de fitness, incluindo monitoramento de frequência cardíaca no pulso e métricas avançadas de treinamento, o tornam uma ferramenta indispensável para melhorar o desempenho e alcançar metas pessoais. Com resistência à água até 100 metros e compatibilidade com uma variedade de aplicativos e serviços, o Garmin Epix Gen 2 Pro é o parceiro perfeito para suas aventuras ao ar livre e jornadas de condicionamento físico.",
+            "productId": 6
+        },
+        {
+            "id": 7,
+            "comment": "O Monitor Cardíaco de Pulso com GPS Garmin Forerunner 55 é uma excelente escolha para corredores de todos os níveis. Combinando precisão de GPS e monitoramento de frequência cardíaca no pulso, este relógio oferece dados detalhados sobre sua corrida, incluindo ritmo, distância, tempo, e muito mais. Sua interface simples e intuitiva torna a navegação fácil durante os treinos, enquanto recursos como planos de treinamento adaptáveis e alertas de ritmo mantêm você motivado e no caminho certo para atingir seus objetivos de condicionamento físico. Além disso, o Forerunner 55 é leve, confortável de usar e possui uma longa duração da bateria, garantindo que você possa se concentrar no que realmente importa: sua corrida. Com recursos adicionais, como monitoramento de estresse e sono, este relógio inteligente é mais do que apenas um dispositivo de corrida - é um parceiro completo para sua jornada de bem-estar.",
+            "productId": 7
+        },
+        {
+            "id": 8,
+            "comment": "A bicicleta Cervélo P5 Six Dura Ace é uma obra-prima de engenharia aerodinâmica e desempenho de alta qualidade, projetada para ciclistas que buscam alcançar o máximo em velocidade e eficiência. Construída com meticulosa atenção aos detalhes, esta máquina de corrida apresenta um quadro de carbono de alto desempenho, projetado para cortar o vento e maximizar a transferência de energia a cada pedalada. Equipada com o grupo Dura Ace da Shimano, esta bicicleta oferece trocas de marchas suaves e precisas, garantindo um desempenho confiável em qualquer terreno. Seu design aerodinâmico é aprimorado com componentes integrados, como freios de montagem direta e cockpit totalmente ajustável, proporcionando uma vantagem aerodinâmica significativa. Com uma geometria de corrida agressiva e uma posição de pilotagem otimizada para velocidade, a Cervélo P5 Six Dura Ace é a escolha definitiva para ciclistas que buscam o ápice do desempenho aerodinâmico e a vantagem competitiva em corridas contra o relógio e triatlos de longa distância.",
+            "productId": 8
+        }
+    ]
+}
