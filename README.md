@@ -14,7 +14,7 @@ Proposta no RocketLab, foi designada uma atividade para desenvolver uma interfac
 >Certifique-se de ter o <a href="https://nodejs.org/en/download/package-manager">Node.js</a>  instalado localmente
 1. Instalar as dependências
   ```
-  $ pnpm i
+  $ npm i
   ```
 2. Ativar o json-server
    
